@@ -1,0 +1,6 @@
+name: astrbot_plugin_log_forwarder
+display_name: 日志转发
+desc: 将警告和错误日志发到指定会话
+version: v1.0.0
+author: ahuai
+astrbot_version: ">=4.27,<5"

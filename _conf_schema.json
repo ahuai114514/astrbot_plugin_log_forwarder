@@ -1,0 +1,8 @@
+{
+  "target_session": {
+    "description": "目标会话",
+    "hint": "填写完整会话 ID（UMO），留空时暂停转发。",
+    "type": "string",
+    "default": ""
+  }
+}
